@@ -3,7 +3,7 @@ import ContactButton from '../components/ContactButton';
 import Header from '../components/Header';
 import MenuManager from '../components/Menu/MenuManager';
 
-import '../styles/home.scss';
+import '../styles/Home.scss';
 
 const Home = () => {
   return (
