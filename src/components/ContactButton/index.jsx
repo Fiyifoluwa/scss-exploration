@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import MenuContext from '../Menu/MenuManager';
+import { MenuContext } from '../Menu/MenuManager';
 import { Plus } from 'react-feather';
 import cn from 'classnames';
 
