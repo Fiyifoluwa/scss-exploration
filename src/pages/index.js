@@ -1,6 +1,6 @@
 import React from 'react';
 import Loadable from 'react-loadable';
-import '../styles/home.scss';
+import '../styles/Home.scss';
 import Home from '../containers/Home';
 
 // markup
